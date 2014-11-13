@@ -1,6 +1,6 @@
 milo-test1
 ==========
-Filter - src/app/main/main.filter.js
+Filter - https://github.com/bakula/milo-test1/blob/master/src/app/main/main.filter.js
 
 Aplication - src
 
